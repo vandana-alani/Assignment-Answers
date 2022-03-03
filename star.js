@@ -52,7 +52,6 @@ function twinkle() {
 }
 setInterval(twinkle, 100);
 init();
-
 render();
 
 
