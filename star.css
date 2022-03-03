@@ -15,15 +15,12 @@
     height: 100%;
     background-color: transparent;
   }
- 
-
   #fname{
     border: none;
     background-color: transparent;
     resize: none;
     outline: none;
 }
-
 #fdob{
     border: none;
   background-color: transparent;
